@@ -9,7 +9,7 @@ website development- windows requirements
 
 2. Download and install Github desktop
 
-3.Download and install git - https://git-scm.com/downloads/win 
+3. Download and install git - https://git-scm.com/downloads/win 
 
 4. Install latest python, check the version in cmd and vscode
     4.1 Install extensions(python)
@@ -36,6 +36,10 @@ website development- windows requirements
         flask run
     5.3 $env:FLASK_DEBUG = "1"
         flask run
+
+6. Ref links - 
+    6.1 https://www.youtube.com/watch?v=e5AwNU3Y2es
+
 
 
 
